@@ -1,11 +1,28 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.852
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DotNet2.2", "DotNet2.2", "{8270286C-9D9F-4E70-9E4B-0C466449DF4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPatternWithDI", "StrategyPatternWithDI\StrategyPatternWithDI.csproj", "{629C636E-8AD0-436F-BBFA-024A298318E5}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{629C636E-8AD0-436F-BBFA-024A298318E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{629C636E-8AD0-436F-BBFA-024A298318E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{629C636E-8AD0-436F-BBFA-024A298318E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{629C636E-8AD0-436F-BBFA-024A298318E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{629C636E-8AD0-436F-BBFA-024A298318E5} = {8270286C-9D9F-4E70-9E4B-0C466449DF4F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B5E4F5AB-C284-45BB-89E4-5EBE01BC35E3}

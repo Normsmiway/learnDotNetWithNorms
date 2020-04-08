@@ -1,0 +1,14 @@
+C:\Users\Surface\Documents\learnDotNetWithNorms\LearnDotNetWithNorms\StrategyPatternWithDI\bin\Debug\netcoreapp2.2\StrategyPatternWithDI.deps.json
+C:\Users\Surface\Documents\learnDotNetWithNorms\LearnDotNetWithNorms\StrategyPatternWithDI\bin\Debug\netcoreapp2.2\StrategyPatternWithDI.runtimeconfig.json
+C:\Users\Surface\Documents\learnDotNetWithNorms\LearnDotNetWithNorms\StrategyPatternWithDI\bin\Debug\netcoreapp2.2\StrategyPatternWithDI.runtimeconfig.dev.json
+C:\Users\Surface\Documents\learnDotNetWithNorms\LearnDotNetWithNorms\StrategyPatternWithDI\bin\Debug\netcoreapp2.2\StrategyPatternWithDI.dll
+C:\Users\Surface\Documents\learnDotNetWithNorms\LearnDotNetWithNorms\StrategyPatternWithDI\obj\Debug\netcoreapp2.2\StrategyPatternWithDI.csprojAssemblyReference.cache
+C:\Users\Surface\Documents\learnDotNetWithNorms\LearnDotNetWithNorms\StrategyPatternWithDI\obj\Debug\netcoreapp2.2\StrategyPatternWithDI.RazorAssemblyInfo.cache
+C:\Users\Surface\Documents\learnDotNetWithNorms\LearnDotNetWithNorms\StrategyPatternWithDI\obj\Debug\netcoreapp2.2\StrategyPatternWithDI.RazorAssemblyInfo.cs
+C:\Users\Surface\Documents\learnDotNetWithNorms\LearnDotNetWithNorms\StrategyPatternWithDI\obj\Debug\netcoreapp2.2\StrategyPatternWithDI.AssemblyInfoInputs.cache
+C:\Users\Surface\Documents\learnDotNetWithNorms\LearnDotNetWithNorms\StrategyPatternWithDI\obj\Debug\netcoreapp2.2\StrategyPatternWithDI.AssemblyInfo.cs
+C:\Users\Surface\Documents\learnDotNetWithNorms\LearnDotNetWithNorms\StrategyPatternWithDI\obj\Debug\netcoreapp2.2\StrategyPatternWithDI.RazorTargetAssemblyInfo.cache
+C:\Users\Surface\Documents\learnDotNetWithNorms\LearnDotNetWithNorms\StrategyPatternWithDI\bin\Debug\netcoreapp2.2\StrategyPatternWithDI.pdb
+C:\Users\Surface\Documents\learnDotNetWithNorms\LearnDotNetWithNorms\StrategyPatternWithDI\obj\Debug\netcoreapp2.2\StrategyPatternWithDI.dll
+C:\Users\Surface\Documents\learnDotNetWithNorms\LearnDotNetWithNorms\StrategyPatternWithDI\obj\Debug\netcoreapp2.2\StrategyPatternWithDI.pdb
+C:\Users\Surface\Documents\learnDotNetWithNorms\LearnDotNetWithNorms\StrategyPatternWithDI\obj\Debug\netcoreapp2.2\StrategyPatternWithDI.csproj.CoreCompileInputs.cache
