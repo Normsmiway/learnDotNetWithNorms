@@ -1,0 +1,14 @@
+C:\Users\Surface\Documents\learnDotNetWithNorms\LearnDotNetWithNorms\MessageProcessor\bin\Debug\netcoreapp2.2\MessageProcessor.deps.json
+C:\Users\Surface\Documents\learnDotNetWithNorms\LearnDotNetWithNorms\MessageProcessor\bin\Debug\netcoreapp2.2\MessageProcessor.runtimeconfig.json
+C:\Users\Surface\Documents\learnDotNetWithNorms\LearnDotNetWithNorms\MessageProcessor\bin\Debug\netcoreapp2.2\MessageProcessor.runtimeconfig.dev.json
+C:\Users\Surface\Documents\learnDotNetWithNorms\LearnDotNetWithNorms\MessageProcessor\bin\Debug\netcoreapp2.2\MessageProcessor.dll
+C:\Users\Surface\Documents\learnDotNetWithNorms\LearnDotNetWithNorms\MessageProcessor\bin\Debug\netcoreapp2.2\MessageProcessor.pdb
+C:\Users\Surface\Documents\learnDotNetWithNorms\LearnDotNetWithNorms\MessageProcessor\obj\Debug\netcoreapp2.2\MessageProcessor.csproj.CoreCompileInputs.cache
+C:\Users\Surface\Documents\learnDotNetWithNorms\LearnDotNetWithNorms\MessageProcessor\obj\Debug\netcoreapp2.2\MessageProcessor.RazorAssemblyInfo.cache
+C:\Users\Surface\Documents\learnDotNetWithNorms\LearnDotNetWithNorms\MessageProcessor\obj\Debug\netcoreapp2.2\MessageProcessor.RazorAssemblyInfo.cs
+C:\Users\Surface\Documents\learnDotNetWithNorms\LearnDotNetWithNorms\MessageProcessor\obj\Debug\netcoreapp2.2\MessageProcessor.AssemblyInfoInputs.cache
+C:\Users\Surface\Documents\learnDotNetWithNorms\LearnDotNetWithNorms\MessageProcessor\obj\Debug\netcoreapp2.2\MessageProcessor.AssemblyInfo.cs
+C:\Users\Surface\Documents\learnDotNetWithNorms\LearnDotNetWithNorms\MessageProcessor\obj\Debug\netcoreapp2.2\MessageProcessor.RazorTargetAssemblyInfo.cache
+C:\Users\Surface\Documents\learnDotNetWithNorms\LearnDotNetWithNorms\MessageProcessor\obj\Debug\netcoreapp2.2\MessageProcessor.dll
+C:\Users\Surface\Documents\learnDotNetWithNorms\LearnDotNetWithNorms\MessageProcessor\obj\Debug\netcoreapp2.2\MessageProcessor.pdb
+C:\Users\Surface\Documents\learnDotNetWithNorms\LearnDotNetWithNorms\MessageProcessor\obj\Debug\netcoreapp2.2\MessageProcessor.csprojAssemblyReference.cache

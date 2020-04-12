@@ -5,7 +5,13 @@ VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DotNet2.2", "DotNet2.2", "{8270286C-9D9F-4E70-9E4B-0C466449DF4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPatternWithDI", "StrategyPatternWithDI\StrategyPatternWithDI.csproj", "{629C636E-8AD0-436F-BBFA-024A298318E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StrategyPatternWithDI", "StrategyPatternWithDI\StrategyPatternWithDI.csproj", "{629C636E-8AD0-436F-BBFA-024A298318E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationLibraryWithDecoratorPattern", "NotificationLibraryWithDecoratorPattern\NotificationLibraryWithDecoratorPattern.csproj", "{A78C9298-90E3-4A25-AE2F-EC6C94D7BECC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageProcessor", "MessageProcessor\MessageProcessor.csproj", "{F5AD9E02-17A1-4D72-B9F8-ED19795888B0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StrategyPatternWithDI_WithComposition", "StrategyPatternWithDI-WithComposition\StrategyPatternWithDI_WithComposition.csproj", "{64C1320D-2CF1-4B73-88B8-94B0D0F1AE65}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +23,27 @@ Global
 		{629C636E-8AD0-436F-BBFA-024A298318E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{629C636E-8AD0-436F-BBFA-024A298318E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{629C636E-8AD0-436F-BBFA-024A298318E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A78C9298-90E3-4A25-AE2F-EC6C94D7BECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A78C9298-90E3-4A25-AE2F-EC6C94D7BECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A78C9298-90E3-4A25-AE2F-EC6C94D7BECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A78C9298-90E3-4A25-AE2F-EC6C94D7BECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5AD9E02-17A1-4D72-B9F8-ED19795888B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5AD9E02-17A1-4D72-B9F8-ED19795888B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5AD9E02-17A1-4D72-B9F8-ED19795888B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5AD9E02-17A1-4D72-B9F8-ED19795888B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64C1320D-2CF1-4B73-88B8-94B0D0F1AE65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C1320D-2CF1-4B73-88B8-94B0D0F1AE65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C1320D-2CF1-4B73-88B8-94B0D0F1AE65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C1320D-2CF1-4B73-88B8-94B0D0F1AE65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{629C636E-8AD0-436F-BBFA-024A298318E5} = {8270286C-9D9F-4E70-9E4B-0C466449DF4F}
+		{A78C9298-90E3-4A25-AE2F-EC6C94D7BECC} = {8270286C-9D9F-4E70-9E4B-0C466449DF4F}
+		{F5AD9E02-17A1-4D72-B9F8-ED19795888B0} = {8270286C-9D9F-4E70-9E4B-0C466449DF4F}
+		{64C1320D-2CF1-4B73-88B8-94B0D0F1AE65} = {8270286C-9D9F-4E70-9E4B-0C466449DF4F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B5E4F5AB-C284-45BB-89E4-5EBE01BC35E3}

@@ -3,6 +3,7 @@ using Autofac.Extensions.DependencyInjection;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.DependencyInjection;
+using StrategyPatternWithDI.Services;
 using System;
 using System.Reflection;
 
@@ -16,12 +17,11 @@ namespace StrategyPatternWithDI
         public IServiceProvider ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
-
             var builder = new ContainerBuilder();
 
             builder.RegisterAssemblyTypes(Assembly.GetEntryAssembly())
                 .AsImplementedInterfaces();
-
+            
             builder.Populate(services);
 
             Container = builder.Build();

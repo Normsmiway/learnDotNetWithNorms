@@ -9,4 +9,6 @@ namespace StrategyPatternWithDI.Services
     {
         IDocumentType Resolve(string name);
     }
+
+
 }

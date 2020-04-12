@@ -4,9 +4,9 @@ using System.Threading.Tasks;
 
 namespace StrategyPatternWithDI.Services
 {
-    public interface IDocumentType
+    public interface IDocumentType 
     {
-        string Name { get; }
+        string Name { get; set; }
         Task<Document> Process(DocumentRequest request);
     }
 }
